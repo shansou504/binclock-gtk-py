@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Binclock-Gtk-Py
+Type=Application
+Icon=binclock-gtk
+Exec=binclock-gtk-py.py
+Categories=Utility;

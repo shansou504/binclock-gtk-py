@@ -1,0 +1,9 @@
+Package: binclock-gtk-py
+Version: 0.1
+Section: custom
+Priority: optional
+Architecture: all
+Essential: no
+Installed-Size: 57344
+Maintainer: https://github.com/shansou504/binclock-gtk-py
+Description: Displays a binary clock using the current system time
